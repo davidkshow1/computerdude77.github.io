@@ -1,0 +1,90 @@
+<!--
+	Powered by Incredibox
+	Incredibox © So Far So Good
+	http://www.sofarsogood.fr
+-->
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<root>	
+	<musique dureeBoucle="7.98" nbFrameAnime="384">
+		<son picto="picto0">
+			<url>sound/drum/drumkick_a.mp3</url>
+			<url>sound/drum/drumkick_b.mp3</url>
+		</son>
+		<son picto="picto1">
+			<url>sound/drum/drumsnare_a.mp3</url>
+			<url>sound/drum/drumsnare_b.mp3</url>
+		</son>
+		<son picto="picto2">
+			<url>sound/drum/drumtouti_a.mp3</url>
+		</son>
+		<son picto="picto3">
+			<url>sound/drum/drumcharley_a.mp3</url>
+		</son>
+		<son picto="picto4">
+			<url>sound/drum/drumchatom_a.mp3</url>
+			<url>sound/drum/drumchatom_b.mp3</url>
+		</son>
+		<son picto="picto5">
+			<url>sound/effect/effectbass_a.mp3</url>
+			<url>sound/effect/effectbass_b.mp3</url>
+		</son>
+		<son picto="picto6">
+			<url>sound/effect/effectenigmatic_a.mp3</url>
+		</son>
+		<son picto="picto7">
+			<url>sound/effect/effectcry_a.mp3</url>
+		</son>
+		<son picto="picto8">
+			<url>sound/effect/effectodoyouno_a.mp3</url>
+		</son>
+		<son picto="picto9">
+			<url>sound/effect/effectoua_a.mp3</url>
+		</son>
+		<son picto="picto10">
+			<url>sound/melo/melotoun_a.mp3</url>
+			<url>sound/melo/melotoun_b.mp3</url>
+		</son>
+		<son picto="picto11">
+			<url>sound/melo/meloflute_a.mp3</url>
+			<url>sound/melo/meloflute_b.mp3</url>
+		</son>
+		<son picto="picto13">
+			<url>sound/melo/meloneou_a.mp3</url>
+			<url>sound/melo/meloneou_b.mp3</url>
+		</son>
+		<son picto="picto13">
+			<url>sound/melo/melohu_a.mp3</url>
+			<url>sound/melo/melohu_b.mp3</url>
+		</son>
+		<son picto="picto14">
+			<url>sound/melo/meloah_a.mp3</url>
+		</son>
+		<son picto="picto15">
+			<url>sound/chips/chipsdel_a.mp3</url>
+		</son>
+		<son picto="picto16">
+			<url>sound/chips/chipschillin_a.mp3</url>
+		</son>
+		<son picto="picto17">
+			<url>sound/chips/chipsyeah_a.mp3</url>
+		</son>
+		<son picto="picto18">
+			<url>sound/chips/chipsfilback_a.mp3</url>
+			<url>sound/chips/chipsfilback_b.mp3</url>
+		</son>
+		<son picto="picto19">
+			<url>sound/chips/chipsteylo_a.mp3</url>
+		</son>
+		<sonBonus picto="bonus0"><url>sound/bonus/aspire.mp3</url></sonBonus>
+		<sonBonus picto="bonus1"><url>sound/bonus/baby.mp3</url></sonBonus>
+		<sonBonus picto="bonus2"><url>sound/bonus/baby.mp3</url></sonBonus>
+		<sonBonus picto="bonus3"><url>sound/bonus/baby.mp3</url></sonBonus>
+	</musique>
+
+	<cheminBonus>
+		<bonus>bonus/baby.swf</bonus>
+		<bonus>bonus/baby.swf</bonus>
+		<bonus>bonus/baby.swf</bonus>
+	</cheminBonus>
+</root>

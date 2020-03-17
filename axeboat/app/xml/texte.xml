@@ -1,0 +1,40 @@
+<!--
+	Powered by Incredibox
+	Incredibox © So Far So Good
+	http://www.sofarsogood.fr
+-->
+
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<root>
+	
+	<!-- BOUTONS -->
+	<texteBouton>
+		<btBonus><![CDATA[Chargement<br />en cours...]]></btBonus>
+		<btBonusA1><![CDATA[Trouve la bonne<br />combinaison de son !]]></btBonusA1>
+		<btBonusA2><![CDATA[Lancer le bonus<br />« Mix For Peace »]]></btBonusA2>
+	</texteBouton>
+	
+	<!-- CONTEXTMENU -->
+	<texteContextMenu>
+		<lien>Musique / Graphisme / Développment</lien>
+		<copyright>Incredibox © So Far So Good</copyright>
+		<solo>Solo</solo>
+		<soloOff>Stop solo</soloOff>
+		<mute>Mute</mute>
+		<muteOff>Unmute</muteOff>
+		<stop>Supprimer</stop>
+		<shuffle>Lancer le mode aléatoire</shuffle>
+		<shuffleOff>Revenir au mode normal</shuffleOff>
+		<stopTout>Arrêter tous les sons</stopTout>
+	</texteContextMenu>
+	
+	<!-- TEXTE FENETRE INFO -->
+	<texteEcranInfo>
+		<info1><![CDATA[Glisse une icône sur un personnage pour démarrer l'enregistrement.]]></info1>
+		<info2><![CDATA[Ton mix doit faire un minimum de 10 loops pour être valide.]]></info2>
+		<info3><![CDATA[Tu n'as pas sauvegardé ton dernier mix. En lançant un nouvel enregistrement tu vas l'effacer.<br/>Veux-tu quand même continuer ?]]></info3>
+		<info5><![CDATA[Le mix va commencer :)<br>Monte le son !]]></info5>
+	</texteEcranInfo>
+
+</root>

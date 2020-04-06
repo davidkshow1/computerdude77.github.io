@@ -1,0 +1,1 @@
+<script>top.window.location = '../';</script>
